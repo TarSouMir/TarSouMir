@@ -39,14 +39,14 @@ Aqui estão as principais linguagens e tecnologias que utilizo no meu dia a dia 
 
 ---
 
-### 📈 Estatísticas
+### 📈 Perfil e Frequência
 
 <p align="center">
-  <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarSouMir&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Linguagens" />
+  <!-- Texto Animado (Typing Effect) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F2C811&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Foco+em+Dados+e+Automa%C3%A7%C3%A3o;Desenvolvedor+em+Evolu%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <!-- Gráfico de Sequência (Streak) -->
+  <!-- Gráfico de Sequência (Streak) - O que funcionou! -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarSouMir&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
