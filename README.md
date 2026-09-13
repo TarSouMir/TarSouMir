@@ -42,12 +42,10 @@ Aqui estão as principais linguagens e tecnologias que utilizo no meu dia a dia 
 ### 📈 Estatísticas e Contribuições
 
 <p align="center">
-  <!-- Gráfico de Contribuições (Linha temporal) -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TarSouMir&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Gráfico de Atividade no GitHub">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarSouMir&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Gráfico de Atividade" />
 </p>
 
 <p align="center">
-  <!-- Cartões de Resumo e Top Linguagens -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TarSouMir&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarSouMir&layout=compact&theme=dark&bg_color=0D1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TarSouMir&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarSouMir&layout=compact&theme=dark&bg_color=0D1117&hide_border=true" alt="Top Linguagens" />
 </p>
