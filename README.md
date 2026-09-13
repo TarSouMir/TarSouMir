@@ -39,11 +39,11 @@ Aqui estão as principais linguagens e tecnologias que utilizo no meu dia a dia 
 
 ---
 
-### 📈 Estatísticas e Conquistas
+### 📈 Estatísticas
 
 <p align="center">
-  <!-- Troféus do GitHub -->
-  <img src="https://github-profile-trophy.vercel.app/?username=TarSouMir&theme=gitdimmed&margin-w=15&column=7&no-frame=true" alt="Troféus" />
+  <!-- Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarSouMir&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Linguagens" />
 </p>
 
 <p align="center">
